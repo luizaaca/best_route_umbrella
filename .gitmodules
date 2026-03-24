@@ -1,0 +1,6 @@
+[submodule "api_best_route"]
+	path = api_best_route
+	url = https://github.com/luizaaca/api_best_route.git
+[submodule "best_route_tsp_front"]
+	path = best_route_tsp_front
+	url = https://github.com/luizaaca/best_route_tsp_front.git
