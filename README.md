@@ -6,19 +6,19 @@ Este repositório serve apenas para referência cruzada e documentação dos pro
 
 <figure style="display:block; width:80%; max-width:100%; margin:0 auto;">
 	<img src="https://github.com/user-attachments/assets/196639bd-e6eb-49e3-a5e4-d04a70885e30" alt="Frontend preview" style="display:block; width:100%; height:auto;" />
-	<figcaption style="text-align:center;">Frontend — Planner UI (preview)</figcaption>
+	<figcaption style="text-align:center;">Frontend - Planner UI (preview)</figcaption>
 </figure>
-
+<br/>
 <figure style="display:block; width:80%; max-width:100%; margin:0.75rem auto;">
 	<img src="https://github.com/user-attachments/assets/9ddc64c2-d9ff-4547-80d4-f7a23e06eba3" alt="Console with plot view" style="display:block; width:100%; height:auto;" />
-	<figcaption style="text-align:center;">Console — plot view</figcaption>
+	<figcaption style="text-align:center;">Console - plot view</figcaption>
 </figure>
-
+<br/>
 <figure style="display:block; width:80%; max-width:100%; margin:0.75rem auto;">
 	<img src="https://github.com/user-attachments/assets/ccbd54af-157c-4092-af3c-27fa56f25a24" alt="API Swagger UI" style="display:block; width:100%; height:auto;" />
-	<figcaption style="text-align:center;">API — Swagger UI (http://localhost:{port}/docs)</figcaption>
+	<figcaption style="text-align:center;">API - Swagger UI (http://localhost:{port}/docs)</figcaption>
 </figure>
-
+<br/>
 ## 🗺️ Diagrama de Arquitetura
 
 Esta seção contém diagramas Mermaid que mostram a arquitetura geral do sistema, o modelo de composição (factories e strategies) e o fluxo do motor genético.
